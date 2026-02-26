@@ -30,7 +30,7 @@ export default function RootLayout({
       >
         {children}
         <Script 
-          src="/" 
+          src="/assistant.js" 
           strategy="afterInteractive" 
         />
       </body>
