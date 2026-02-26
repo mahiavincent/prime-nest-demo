@@ -30,7 +30,7 @@ export default function RootLayout({
       >
         {children}
         <Script 
-          src="https://prime-nest-ui.onrender.com/assistant.js" 
+          src="/" 
           strategy="afterInteractive" 
         />
       </body>
